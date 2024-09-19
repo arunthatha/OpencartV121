@@ -1,0 +1,209 @@
+18:33:13.051 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\grid-docker.xml"
+18:33:13.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\grid-docker.xml
+
+18:33:20.364 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+18:33:20.973 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+18:33:21.492 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+18:33:21.497 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+18:33:23.182 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+18:33:23.242 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+18:33:23.242 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+18:33:23.245 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+18:33:26.926 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+18:33:28.914 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+18:33:55.825 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\grid-docker.xml"
+18:33:56.324 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\grid-docker.xml
+
+18:34:00.588 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+18:34:01.199 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+18:34:01.696 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+18:34:01.704 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+18:34:03.145 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+18:34:03.206 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+18:34:03.206 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+18:34:03.209 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+18:34:06.118 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+18:34:07.913 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+18:36:17.737 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\grid-docker.xml"
+18:36:18.201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\grid-docker.xml
+
+18:36:54.478 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+18:36:54.595 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\grid-docker.xml"
+18:36:55.551 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+18:36:56.750 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+18:36:56.760 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+18:36:56.993 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\grid-docker.xml
+
+18:36:58.541 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+18:36:58.608 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+18:36:58.608 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+18:36:58.615 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+18:37:10.825 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+18:37:11.520 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+18:37:12.614 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+18:37:12.622 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+18:37:12.835 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+18:37:14.655 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+18:37:14.731 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+18:37:14.731 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+18:37:14.737 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+18:37:15.497 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+18:37:27.783 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+18:37:29.685 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:29.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:29.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:30.917 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+18:37:31.791 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:31.969 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:31.978 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:31.981 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.006 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.044 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.046 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.069 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.107 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.108 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.133 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.168 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.170 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.187 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.221 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.223 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.225 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.241 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.267 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.293 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.325 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.328 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.342 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.370 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.386 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.459 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.487 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.506 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.528 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.544 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.565 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.601 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.633 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.634 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.637 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.654 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.677 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.680 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.699 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.737 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.739 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.751 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.776 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:37:32.778 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:37:32.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:37:32.794 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:37:32.850 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC_003_LoginDDT ***
+18:37:35.054 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC_003_LoginDDT ***
+18:37:35.062 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC_003_LoginDDT ***
+18:37:36.699 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC_003_LoginDDT ***
+18:37:36.708 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC_003_LoginDDT ***
+18:37:38.382 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC_003_LoginDDT ***
+18:37:38.390 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC_003_LoginDDT ***
+18:37:49.563 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC_003_LoginDDT ***
+18:37:49.573 [main] INFO  testCases.TC003_LoginDDT - *** Starting TC_003_LoginDDT ***
+18:37:51.120 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC_003_LoginDDT ***
+18:38:52.331 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\grid-docker.xml"
+18:38:52.808 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\grid-docker.xml
+
+18:38:59.769 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+18:39:00.144 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+18:39:00.548 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+18:39:00.554 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+18:39:02.014 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+18:39:02.049 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+18:39:02.049 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+18:39:02.053 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+18:39:09.175 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+18:39:10.704 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+02:52:12.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\mater.xml"
+02:52:13.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\mater.xml
+
+02:52:20.967 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+02:52:21.513 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+02:52:22.174 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+02:52:22.179 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+02:52:23.992 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+02:52:24.069 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+02:52:24.070 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+02:52:24.076 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+02:52:29.007 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+02:52:31.176 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+15:02:20.918 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\mater.xml"
+15:02:21.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\NewLearning\OpencartV121\mater.xml
+
+15:02:27.890 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+15:02:28.524 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+15:02:29.186 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+15:02:29.207 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+15:02:30.819 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+15:02:30.913 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+15:02:30.914 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+15:02:30.920 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+15:02:33.923 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+15:02:35.832 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+15:11:33.789 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\master.xml"
+15:11:38.152 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+15:11:38.317 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+15:11:38.757 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+15:11:38.764 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+15:11:40.463 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+15:11:40.532 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+15:11:40.532 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+15:11:40.539 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+15:11:43.319 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+15:11:45.142 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+15:16:12.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\master.xml"
+15:16:18.235 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+15:16:18.698 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+15:16:19.212 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+15:16:19.217 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+15:16:20.950 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+15:16:21.006 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+15:16:21.006 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+15:16:21.013 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+15:16:24.544 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+15:16:26.448 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
+15:43:22.583 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\NewLearning\OpencartV121\master.xml"
+15:43:30.036 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Starting TC_001_AccountRegistationTest ****
+15:43:30.695 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on MyAccount Link..
+15:43:31.212 [main] INFO  testCases.TC_001_AccountRegistationTest - Clicked on Register Link..
+15:43:31.216 [main] INFO  testCases.TC_001_AccountRegistationTest - Providing customer details..
+15:43:32.875 [main] INFO  testCases.TC_001_AccountRegistationTest - Validating expected message..
+15:43:32.945 [main] ERROR testCases.TC_001_AccountRegistationTest - Test failed..
+15:43:32.945 [main] DEBUG testCases.TC_001_AccountRegistationTest - Debug logs..
+15:43:32.948 [main] INFO  testCases.TC_001_AccountRegistationTest - **** Finished TC_001_AccountRegistationTest ****
+15:43:37.433 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC_002_LoginTest******
+15:43:39.336 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC_002_LoginTest******
